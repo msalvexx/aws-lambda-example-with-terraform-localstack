@@ -1,4 +1,4 @@
-A sample project to show that is possible to deploy a local infrastructure with terraform and Localstack.
+A sample project to show that is possible to deploy a local infrastructure with Terraform and Localstack.
 
 ## The Example
 The application is a simple AWS Lambda function that only logs the time that the function was triggered. The trigger is a CloudWatch scheduler and the infrastructure is provisioned with Terraform.
